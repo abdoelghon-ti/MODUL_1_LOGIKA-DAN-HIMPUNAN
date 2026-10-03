@@ -62,4 +62,4 @@
 | True | False | LAMPU MENYALA | PASS |
 | True | True | LAMPU MATI | PASS |
 | False | True | LAMPU MENYALA | PASS |
-| False | False | LAMPU MATI | |
+| False | False | LAMPU MATI | PASS |
